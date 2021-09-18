@@ -8,6 +8,8 @@ The first class project on building augmented reality knickknacks
 2. Implementing the magic eight ball.
 Checking if object is flipped. 
 
+Nasa Emblem: https://en.wikipedia.org/wiki/File:NASA_logo.svg
+
 Sounds Used in the NASA knickknack:
 
 1. Mission Crontrol Ambient Music by user ProtoSounds https://freesound.org/people/ProtoSounds/sounds/379269/
@@ -35,6 +37,8 @@ My Models:
 
 Ambient Sound:
 Jungle by user spiid https://freesound.org/people/spiid/sounds/344204/ 
+
+Karnataka State Emblem: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Seal_of_Karnataka.svg/278px-Seal_of_Karnataka.svg.png
 
 
 
