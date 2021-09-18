@@ -6,6 +6,9 @@ using TMPro;
 public class ballTextUpdate : MonoBehaviour
 {
     public GameObject Magic8Text;
+    public AudioSource audioSource;
+    public float volume=0.5f;
+    
     int upsideDown = 0;
     
     // Start is called before the first frame update
@@ -35,6 +38,7 @@ public class ballTextUpdate : MonoBehaviour
             //updateText();
             upsideDown = 0;
             updateText();
+            audioSource.PlayOneShot(audioSource.clip, volume);
         }
     }
     
