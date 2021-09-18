@@ -6,18 +6,36 @@ using TMPro;
 public class ballTextUpdate : MonoBehaviour
 {
     public GameObject Magic8Text;
+    int upsideDown = 0;
     
     // Start is called before the first frame update
     void Start()
     {
         Magic8Text.GetComponent<TextMeshPro>().text = "Hello";
+        if (Vector3.Dot(Magic8Text.transform.up, Vector3.down) > 0) {
+            upsideDown = 1;
+        }
     }
 
     // Update is called once per frame
     void Update()
     {
-        Magic8Text.GetComponent<TextMeshPro>().text = "Hello";
-        updateText();
+        //Magic8Text.GetComponent<TextMeshPro>().text = "Hello";
+        //updateText();
+        //if flipped updateTest();
+        //if (Vector3.Dot(Magic8Text.transform.up, Vector3.down) > 0)
+        
+        //Magic8Text.GetComponent<TextMeshPro>().text = Vector3.Dot(Magic8Text.transform.up, Vector3.down).ToString();
+        if (Vector3.Dot(Magic8Text.transform.up, Vector3.down) > 0) {
+            //updateText();
+            upsideDown = 1;
+        }
+        
+        if ((Vector3.Dot(Magic8Text.transform.up, Vector3.down) < 0) & upsideDown == 1){
+            //updateText();
+            upsideDown = 0;
+            updateText();
+        }
     }
     
     void updateText(){
@@ -51,7 +69,7 @@ public class ballTextUpdate : MonoBehaviour
         Random rnd = new Random();
         //int index = rnd.Next(sayings.Length);
         //int index = Random.Range(0, sayings.Length);
-        int index = Random.Range(0, 2);
+        int index = Random.Range(0, sayings.Length);
         Magic8Text.GetComponent<TextMeshPro>().text = sayings[index];
     }
 }
