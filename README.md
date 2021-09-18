@@ -13,3 +13,10 @@ Sounds Used in the NASA knickknack:
 2. Apollo and Mercury Sounds & Sound Bites by user DudeAwesome https://freesound.org/people/DudeAwesome/sounds/386070/
 
 3. WINK-01.wav by user newagesoup https://freesound.org/people/newagesoup/sounds/350359/ (Used for the sound that the magic-eight-ball makes when updating text)
+
+
+Online Models Used:
+
+1. Sputnik 1 by Ludashov Anton https://assetstore.unity.com/packages/3d/vehicles/space/3d-model-sputnik-1-192475
+
+
