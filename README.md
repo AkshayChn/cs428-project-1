@@ -48,11 +48,10 @@ Online Models used:
 
 3. Imperial Penguin by user Felis Chaus https://assetstore.unity.com/packages/3d/characters/animals/birds/imperial-penguin-100397
 
-4. Low Poly Tree by Synchronic https://assetstore.unity.com/packages/3d/low-poly-tree-62946
 
 My Own Models:
 
-1. 
+1. Tree
 
 
 
