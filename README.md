@@ -5,7 +5,7 @@ The first class project on building augmented reality knickknacks.
 
 2. The Class Cube Knickknack is for Mysore, a city in India. Where there is a large zoo.
 
-![Sample Image](sample_image.jpg)
+![Sample Image](sample_image.jepg)
 
 ## Merge Cube
 
