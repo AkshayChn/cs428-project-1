@@ -1,9 +1,11 @@
 # cs428-project-1
 The first class project on building augmented reality knickknacks.
 
+Use the the scene named RoswellScene for using the cubes, and the other scene for a large knickknack on the Ground Plane.
+
 1. The Merge Cube Knickknack is for Cape Canaveral, Florida
 
-2. The Class Cube Knickknack is for Mysore, a city in India. Where there is a large zoo.
+2. The Class Cube Knickknack is for Mysore, a city in India, where there is a large zoo.
 
 ![Sample Image](./sample_image.jpeg)
 

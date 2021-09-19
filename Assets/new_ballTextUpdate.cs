@@ -44,30 +44,24 @@ public class new_ballTextUpdate : MonoBehaviour
     
     void updateText(){
         string[] sayings = new string[] {
-                                            "It is Certain",
-                                            "It is decidedly so",
-                                            "Without a doubt",
-                                            "Yes definitely",
-                                            "You may rely on it",
-                                            "As I see it, yes.",
-                                            "Most likely",
-                                            "Outlook good",
-                                            "Yes",
-                                            "Signs point to yes",
+                                            "Yesssss!!",
+                                            "Absolutely!!",
+                                            "I'm Sure of it!",
+                                            "I'ts bound to be so!",
+                                            "Sure!",
+                                            
+                                            "Neutral Answer, Try again.",
+                                            "lol idk",
+                                            "Are you really asking a cube?",
+                                            "How can I know?",
+                                            "Go Away",
 
 
-                                            "Reply hazy, try again",
-                                            "Ask again later",
-                                            "Better not tell you now",
-                                            "Cannot predict now",
-                                            "Concentrate and ask again",
-
-
-                                            "Don't count on it",
-                                            "My reply is no",
-                                            "My sources say no",
-                                            "Outlook not so good",
-                                            "Very doubtful"
+                                            "Lol no",
+                                            "Never",
+                                            "Absolutely not",
+                                            "Heh, you really think so?",
+                                            "Impossible"
 
                                         };
         Random rnd = new Random();
