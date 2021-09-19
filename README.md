@@ -40,6 +40,19 @@ Jungle by user spiid https://freesound.org/people/spiid/sounds/344204/
 
 Karnataka State Emblem: https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Seal_of_Karnataka.svg/278px-Seal_of_Karnataka.svg.png
 
+Online Models used:
+
+1. Low Poly Tree by LoopTroop https://assetstore.unity.com/packages/3d/vegetation/trees/low-poly-tree-looptroop-72899
+
+2. White Rabbit by Niwashi Games https://assetstore.unity.com/packages/3d/characters/animals/white-rabbit-138709
+
+3. Imperial Penguin by user Felis Chaus https://assetstore.unity.com/packages/3d/characters/animals/birds/imperial-penguin-100397
+
+4. Low Poly Tree by Synchronic https://assetstore.unity.com/packages/3d/low-poly-tree-62946
+
+My Own Models:
+
+1. 
 
 
 
