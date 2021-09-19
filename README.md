@@ -1,5 +1,11 @@
 # cs428-project-1
-The first class project on building augmented reality knickknacks 
+The first class project on building augmented reality knickknacks.
+
+1. The Merge Cube Knickknack is for Cape Canaveral, Florida
+
+2. The Class Cube Knickknack is for Mysore, a city in India. Where there is a large zoo.
+
+![Sample Image](sample_image.jpg)
 
 ## Merge Cube
 
@@ -42,16 +48,19 @@ Karnataka State Emblem: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a
 
 Online Models used:
 
-1. Low Poly Tree by LoopTroop https://assetstore.unity.com/packages/3d/vegetation/trees/low-poly-tree-looptroop-72899
+1. Voxel Animals Pack by Total Game Assets https://assetstore.unity.com/packages/3d/characters/animals/voxel-animals-pack-133366
 
 2. White Rabbit by Niwashi Games https://assetstore.unity.com/packages/3d/characters/animals/white-rabbit-138709
 
 3. Imperial Penguin by user Felis Chaus https://assetstore.unity.com/packages/3d/characters/animals/birds/imperial-penguin-100397
 
 
+
 My Own Models:
 
 1. Tree
+
+2. Fences
 
 
 
